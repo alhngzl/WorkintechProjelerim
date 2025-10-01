@@ -12,7 +12,7 @@ export async function ipAdresimiAl() {
 }
 
 /*
-
+deneme
 	ADIM 1: Aşağdıdaki getData() fonskiyonunda axios kullanarak, aşağıdaki URL'ye GET sorgusu atacağız:
   https://apis.ergineer.com/ipgeoapi/{ipAdresiniz}
 
